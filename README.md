@@ -1,1 +1,3 @@
-# hello-world
+# hello-wolrd
+learning
+developing
